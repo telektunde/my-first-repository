@@ -1,0 +1,12 @@
+li {
+    background-color:rgb(13, 211, 211);
+    height: 30px;
+    width: 300px;
+    border: 1px solid darkblue;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
